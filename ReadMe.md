@@ -1,6 +1,6 @@
 This is an application to manage our daily todo activities suing Java/J2EE, Spring Boot, Spring Data JPA, Hibernate, JSP, HTML, jQuery and CSS
 
-While Deoloying in Tomcat please start the application with thr below URL:
+While Deploying in Tomcat please start the application with thr below URL:
 
 http://localhost:8080/login
 
